@@ -432,6 +432,7 @@ export { zoraSepolia } from './definitions/zoraSepolia.js'
 export { zoraTestnet } from './definitions/zoraTestnet.js'
 export { zircuit } from './definitions/zircuit.js'
 export { zircuitTestnet } from './definitions/zircuitTestnet.js'
+export { zyx } from './definitions/zyx.js'
 
 //////////////////////////////////////////////////////////////////////////////////////
 // Required type exports to prevent TypeScript error "TS2742".
